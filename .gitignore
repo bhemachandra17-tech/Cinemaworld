@@ -32,3 +32,19 @@ google-services.json
 
 # Android Profiling
 *.hprof
+const teluguMovies = [
+  {
+    title: "Mayabazar",
+    year: 1957,
+    genre: "Fantasy",
+    language: "Telugu",
+    source: "Official/Public Domain Link"
+  },
+  {
+    title: "Missamma",
+    year: 1955,
+    genre: "Comedy",
+    language: "Telugu",
+    source: "Official/Public Domain Link"
+  }
+];
